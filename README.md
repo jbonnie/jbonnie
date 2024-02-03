@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<!--
-**jbonnie/jbonnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🙋🏻‍♀️ Hello! I'm Bogyeong Jang <br>
 
-Here are some ideas to get you started:
+### 🏫 Yonsei University 
+### ✏️ Department of Earth System Sciences, Computer Sciences
+📂 `Backend` `Java` `Spring Boot`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+******
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbonnie&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=FFE082&count_private=true&exclude_repo=Face-Transfer-Application" width=40.25% />
+</a>   
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jbonnie&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFC107&text_color=fff&title_color=FFE082&count_private=true" width=59.25% />
+</a><br>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbonnie&theme=react-dark&bg_color=20232a&hide_border=true&line=FFC107&color=FFE082" width=100%/>
+</a>
