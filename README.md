@@ -6,6 +6,7 @@
 ### ✏️ Department of Earth System Sciences, Computer Sciences
 📂 `Backend` `Java` `Spring Boot`
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang5773)](http://solved.ac/jang5773/)
 ******
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
