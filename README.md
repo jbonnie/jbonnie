@@ -10,25 +10,10 @@
 
 ******
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbonnie&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=FFE082&count_private=true&exclude_repo=Face-Transfer-Application" width=40.25% />
-</a>   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbonnie&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFC107&text_color=fff&title_color=FFE082&count_private=true" width=59.25% />
-</a><br>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbonnie&theme=react-dark&bg_color=20232a&hide_border=true&line=FFC107&color=FFE082" width=100%/>
-</a>
--->
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbonnie&layout=compact&theme=radical" width=43%/><img src="https://github-readme-stats.vercel.app/api?username=jbonnie&show_icons=true&theme=radical" width=57%/>
 
+<!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbonnie&theme=react-dark&bg_color=141321&hide_border=true&line=E0C33F&color=D93B7D" width=100%/>
 </a>
-
-
-<!--
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbonnie&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbonnie&layout=compact&theme=radical)-->
+-->
