@@ -6,7 +6,7 @@
 #### 💻 Backend Developer
 #### 🏫 Yonsei University 
 #### ✏️ Department of Earth System Sciences / Computer Sciences
-📂 `Java` `Spring Boot` `Spring` `MyBatis` <br><br>
+📂 `Java` `Spring Boot` `Spring` `Spring Data JPA` `Spring AI` `MyBatis` `Thymeleaf`<br><br>
 📩 `bonnie5773@naver.com`
 
 ******
